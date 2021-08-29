@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanCoding", "HuffmanCoding.csproj", "{557A85B5-749C-4F9F-AAC4-CCF8FC1BE548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557A85B5-749C-4F9F-AAC4-CCF8FC1BE548}.Debug|x86.ActiveCfg = Debug|x86
+		{557A85B5-749C-4F9F-AAC4-CCF8FC1BE548}.Debug|x86.Build.0 = Debug|x86
+		{557A85B5-749C-4F9F-AAC4-CCF8FC1BE548}.Release|x86.ActiveCfg = Release|x86
+		{557A85B5-749C-4F9F-AAC4-CCF8FC1BE548}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
